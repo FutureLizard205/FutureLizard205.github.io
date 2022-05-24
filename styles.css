@@ -1,0 +1,17 @@
+.title {
+  color: #2030AA;
+
+  background-color: #66CCFF;
+
+  width: 11%;
+  height: 200%;
+  padding: 1rem;
+
+  border: 1px solid #000000;
+}
+
+.body {
+  background-image: url(bg.gif);
+  background-repeat: repeat;
+  margin: 10px;
+}
