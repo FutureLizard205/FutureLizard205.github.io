@@ -1,13 +1,40 @@
 .title {
-  color: #2030AA;
+  color: #AA54D9;
 
-  background-color: #66CCFF;
+  background: rgba(44,20,1,0.7);
+  border-radius: 25px;
+  width: 255px;
+  padding: 0.5rem;
 
-  width: 11%;
-  height: 200%;
+  // border: 1px solid #000000;
+
+  font-family:'Lucida Handwriting',cursive;
+  font-size: 30px;
+}
+
+.left {
+  color: #FFFFFF;
+  background: rgba(1,1,1,0.8);
+  border-radius: 15px;
+  width: 80%;
   padding: 1rem;
+  font-family: "Segoe UI","Arial";
+  font-size: 16px;
+  left: 0;
+  border: 4px;
+}
 
-  border: 1px solid #000000;
+.right {
+  background: #000000;
+  color: #FFFFFF;
+  position: absolute;
+  top: 60px;
+  right: 0;
+  width: 15%;
+
+  border: 4px solid;
+  border-style: ridge;
+  padding: 0.2rem;
 }
 
 .body {
