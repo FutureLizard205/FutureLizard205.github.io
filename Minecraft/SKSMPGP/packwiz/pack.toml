@@ -1,0 +1,13 @@
+name = "SKSMPGP"
+author = "FutureLizard205"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2f543faac66f92a68457abd03bed8ef223eb03ed3a5966c2408efa57a8a0dc67"
+
+[versions]
+forge = "40.1.52"
+minecraft = "1.18.2"

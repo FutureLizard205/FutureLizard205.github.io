@@ -1,0 +1,13 @@
+name = "Replanting Crops (Forge)"
+filename = "replantingcrops_1.18.2-2.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d6c4bd4816a86f6269b8b138b31a7fa20a1cee4a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3669174
+project-id = 367051

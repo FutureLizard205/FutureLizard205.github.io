@@ -1,0 +1,13 @@
+name = "Player Tracking Compass (Forge)"
+filename = "playertrackingcompass_1.18.2-1.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8fdebeb5a6953edf46c5e2cd57c6c5b8f45198c5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3669185
+project-id = 377858

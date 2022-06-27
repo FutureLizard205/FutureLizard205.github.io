@@ -1,0 +1,13 @@
+name = "U Team Core"
+filename = "u_team_core-1.18.2-4.0.1.216.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "de49fafa646281866d17e42b1c448d3e125168c7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3827759
+project-id = 273744
