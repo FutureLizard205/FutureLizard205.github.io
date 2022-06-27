@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/actually-compatible.pw.toml"
-hash = "7342a52601808df88e76370b52e894545decc7bb14bdc6f7508e1f6dbca0404c"
-metafile = true
-
-[[files]]
 file = "mods/additional-additions-forge.pw.toml"
 hash = "3986ffbaaddfb4a97d826e37bbc9a734724074679c7a9fe1ff4de9d0eca2abcb"
 metafile = true
@@ -341,11 +336,6 @@ hash = "36bae8609f27de678aa819818d8f38dca272c611120b25ced51df2c5381c0349"
 metafile = true
 
 [[files]]
-file = "mods/double-doors.pw.toml"
-hash = "a68fb3496a1549b2120fbd1d94fb474ccadd469438a77888b07bc268d8495ea6"
-metafile = true
-
-[[files]]
 file = "mods/dungeon-crawl.pw.toml"
 hash = "5f86110ca3889ccf4c7cf73e826103dc38b00116274077ec5ea610893f964a3d"
 metafile = true
@@ -596,6 +586,11 @@ hash = "556dd971e6d1f9e0548d0d200ef7995d3f0cb65e43170eccb33612b8fe16d83a"
 metafile = true
 
 [[files]]
+file = "mods/login-protection.pw.toml"
+hash = "7a27909655cd8ac42af80b47f95c6dfb05f102072b340198063ec8134cd7f778"
+metafile = true
+
+[[files]]
 file = "mods/longer-login-times.pw.toml"
 hash = "29c30c9c3187ba9f19c30cca9b7bbd0e3f72ded8fbbd1b9e11fbccd62615be4d"
 metafile = true
@@ -663,6 +658,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "93091b397f6ac25759b98be7034767689407bb344c464a9359642122a8b683db"
+metafile = true
+
+[[files]]
+file = "mods/my-server-is-compatible.pw.toml"
+hash = "8b9af4d0f8b912ac1ec8fe7ab8291dc7384f9db13e18bf7a8eb4f054d685449f"
 metafile = true
 
 [[files]]
@@ -988,6 +988,11 @@ metafile = true
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "4275242bc6cd5ff6a7b23463f3921fc3bced4b9fc2e5f4a634ec5be96d0e21e2"
+metafile = true
+
+[[files]]
+file = "mods/tips.pw.toml"
+hash = "9f02a6146c9801de1351707c0ebb2291b57ec1f08d06dfc8574870664ae2ef02"
 metafile = true
 
 [[files]]
