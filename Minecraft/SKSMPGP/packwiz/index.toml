@@ -161,6 +161,11 @@ hash = "13c63cce628f6ddb2a27c94f2cc58da761ce93f0cfe5e37d82dc009854b608a3"
 metafile = true
 
 [[files]]
+file = "mods/brutal-bosses-dungeon.pw.toml"
+hash = "1e034ebfe14c86e0d952c7f9880a1741730a3f9b1028e0d616b87cfe46ea5562"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "d327839546f676861ab40202cf9b1a20bea90950e80231e7df2f5631fa115bb3"
 metafile = true
@@ -263,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "e4b89bc3aa13faf8c7abbc3f82ebaba7c954370a38a15293781235dd2ebf9baf"
+metafile = true
+
+[[files]]
+file = "mods/create-alloyed.pw.toml"
+hash = "339706000fdc141e32210c1aa84022ccdfb910717798c2446bd35be2ac440ed0"
 metafile = true
 
 [[files]]
@@ -683,6 +693,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "7a58e34ad1ce5784ba3a6b2247315dc3a4e6757a56403e0b122f17e0c8a0f6cf"
+metafile = true
+
+[[files]]
+file = "mods/netherite-elytra.pw.toml"
+hash = "369a569e67f8dcab58678e31c3cbe2426b8f742d69b503629503c3ba5547f05a"
 metafile = true
 
 [[files]]
