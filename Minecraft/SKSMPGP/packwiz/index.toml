@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/additional-enchanted-miner.pw.toml"
-hash = "3e73e7ec0e256e6a94918bea27425b6f64d4b55c5354972b9f8665eb15b60575"
+hash = "07265dad550e5dc5bb2b6816f4e59acd15d81ded514f6b68b7fedb32a6caa7f9"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
-hash = "5433cff021447e3bddfa8967f0b03fbc1f478d87b4d4828d52a66688fe6b1853"
+hash = "03da06567af6005bcfd94525e773bb49b448c58b161757f8f5680b857459766c"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "725e11c2310f713aae3d05d2dd377e5477fb1844f15547a01e7f459128469b56"
+hash = "b269cdcedbb3c4c24475380171b72594ea288de8254cf42fb679a65ffefe94df"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "9bad9d1723e9165e54baadf6ddf3bcd74becd1bc74235fbca73ba0d27317f405"
+hash = "3ee88332d052e44f88d939ec9e3c6a357a51ac83e1fbfaca2608548d73e8a62a"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "9a7b5d7cf2ab9e3a45d4fdaab423c3028967c646b1364b4913cfa83a9df31895"
+hash = "23d42c3cbba7d75008cd3e7c15d347fac29a97bcb832d9768d75e7a5a457cc09"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/deep-resonance.pw.toml"
-hash = "ad55c05c36edbf863183ba81add20c7d7ac06d72625cc4f6278f8fe8956b9c5a"
+hash = "fe77139e944d18ce0015eb1935bb07f85a9aed903dddf03e3ede712c604d4c32"
 metafile = true
 
 [[files]]
@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/evilcraft.pw.toml"
-hash = "b68af9f2c2816ad18f1ffa304a084f702ce4c8ba97a848378ee5b202721a9f1b"
+hash = "707aaf07fdf7c5baf1e85cdf766876ebbc2ac12ccb17b6e6f580cd074b75b413"
 metafile = true
 
 [[files]]
@@ -767,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "mods/productivebees.pw.toml"
-hash = "d28a750d51f59cec319cd79ca927a0fb07c612136a8e222b5b28b5a6f55b3a91"
+hash = "ae291609175bd51deccc5ef760e7062a92b2dbd970c479b6f3742c5af37d3a8d"
 metafile = true
 
 [[files]]
@@ -937,7 +937,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "a1d0d9eb65ca99c298bb55306b0d18d301ccc22d262494e6d50db7e7882e937e"
+hash = "a80a572a03265ba57d40b36d732d909fb5878e7dd6db0e68cf3d1c790bfb8a0f"
 metafile = true
 
 [[files]]
@@ -1112,7 +1112,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-mineshafts-forge.pw.toml"
-hash = "e714ceb525c0160e6ea30d29d8cd911836bb3daa8340de9dd733d6264b085c4d"
+hash = "23c78b6156a0aef262ef2964d744d50689a193a91991412b68a0da3e5c3eeaef"
 metafile = true
 
 [[files]]
@@ -1122,7 +1122,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
-hash = "b7864cf8603327822c713d7e7e4947e0aab2846786b4f99a147cb277d77018b1"
+hash = "18509e12bcbe9da72660134894d17610b33e76c3212a107b8800e416fb94659f"
 metafile = true
 
 [[files]]
