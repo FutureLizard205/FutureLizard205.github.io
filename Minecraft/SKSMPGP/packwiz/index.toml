@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "3ee88332d052e44f88d939ec9e3c6a357a51ac83e1fbfaca2608548d73e8a62a"
+hash = "ec49f4fece980a68335b80adb850b1aa20bd7204346f8e5aea9bbc97d10da608"
 metafile = true
 
 [[files]]
@@ -487,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "5b67d3941dd20ab1a911d81f4a065b7bc2282ae4543d237702917d7f52211f63"
+hash = "da02ebaee86b525097e8bb7bc71c0de9d5468404c936a6acbc070338296ce411"
 metafile = true
 
 [[files]]
@@ -692,7 +692,7 @@ metafile = true
 
 [[files]]
 file = "mods/natures-compass.pw.toml"
-hash = "7a58e34ad1ce5784ba3a6b2247315dc3a4e6757a56403e0b122f17e0c8a0f6cf"
+hash = "e3b607348fc4084c8aece8cccaa3c58af8d12e518c305bdbe044eabc2bb0b472"
 metafile = true
 
 [[files]]
@@ -752,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
-hash = "6d8d21a638b2f2b4986f9a0372d6aaa11a13d5e36087dc43d191b0045be7f0ce"
+hash = "740fe3ed2de2c496b14cba790521b7ab7dc8f303964500eb74f41cdf5949093d"
 metafile = true
 
 [[files]]
@@ -917,7 +917,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-gel-api.pw.toml"
-hash = "982d33b548ca9e3ef839b65ee3b5df2dd4b4448cff1bdad4d872a7efc14ce428"
+hash = "a5e6263559ffaff23c2cf97b917176cf1d6f90837340e876a53c42f41a611d78"
 metafile = true
 
 [[files]]
