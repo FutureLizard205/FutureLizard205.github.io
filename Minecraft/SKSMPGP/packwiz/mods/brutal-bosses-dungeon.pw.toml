@@ -1,13 +1,13 @@
 name = "Brutal Bosses - Dungeon Bosses"
-filename = "brutalbosses-1.18.2-5.0.jar"
+filename = "brutalbosses-1.18.2-5.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1b87cca30ec53475240822f89233ae8b30ceca0f"
+hash = "5b626b2af60ae4e1d0f5949ba2a3edd195d6fbb2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3851424
+file-id = 3860726
 project-id = 557999
