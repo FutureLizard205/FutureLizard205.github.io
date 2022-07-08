@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/allthemodium.pw.toml"
-hash = "ec7c967df47fcc127c8b6119c775bd18a89b33efe603833d05f0eb3c22fe3dc7"
+hash = "d4f42a4ba5aa6330e295ef86b73685455202f87a4c73e8f1d18dad4ca165eff1"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "8b968377c79f5b3069319f1b39b22460c6fb08233a12d27dfb2819833cdc8e47"
+hash = "e4cec470bddf5686f417a70d55ca82b6c1acfd377d88625e16809e6037fe0d64"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "36bae8609f27de678aa819818d8f38dca272c611120b25ced51df2c5381c0349"
+hash = "8724c9afd1e767f24c7755a57664399d37444ddf9a97a135f0b1e6c203444d7a"
 metafile = true
 
 [[files]]
@@ -767,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "mods/productivebees.pw.toml"
-hash = "ae291609175bd51deccc5ef760e7062a92b2dbd970c479b6f3742c5af37d3a8d"
+hash = "ba1a0228e04fb27488f75c7090afb83d89d0bb7ade0638207c2459afd77ede7d"
 metafile = true
 
 [[files]]
@@ -872,7 +872,7 @@ metafile = true
 
 [[files]]
 file = "mods/silent-gear.pw.toml"
-hash = "00cc865f4ff8cead4dc7e407e99e580ef8e14e671b46a6569e2da740ecea583a"
+hash = "8f6c7350ed3665add211d968d788a96a22534a7b6a49c482441d37ed67946cf5"
 metafile = true
 
 [[files]]
@@ -887,7 +887,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-magnets.pw.toml"
-hash = "f944061d8a9c771c3b9dda67aa65c8512c26f434bee0de33ca57a65fac1e2cab"
+hash = "211a16ae871b75190c9cb4f8fb768c588f07443926a9c030c2ac802762640e36"
 metafile = true
 
 [[files]]
@@ -927,12 +927,12 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "31923aef4030558574b39a619af0a3c2bbdc8cafa8a1e720483782e454108f91"
+hash = "5f62a1b53954ac5f25d506f24755c7bde75b179895219260612f4ccad31bf2c5"
 metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "aac532e1429f485f5dd6caa997af14872073374e64a938c80f53e5543381de4a"
+hash = "d74b966074318c02ac233f1ef9ab85ab59058866459c4bb0b6226f621590c08e"
 metafile = true
 
 [[files]]
