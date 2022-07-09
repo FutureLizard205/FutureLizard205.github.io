@@ -766,6 +766,11 @@ hash = "0bd6b3a16deda595b01ba263a2101848e3a6af5a7d35cbc659b088f5c467df3a"
 metafile = true
 
 [[files]]
+file = "mods/potionsmaster.pw.toml"
+hash = "54f628283f1cc973bd86b701ac86ab73366cdf4e39badd3fadf5517ec99d4309"
+metafile = true
+
+[[files]]
 file = "mods/productivebees.pw.toml"
 hash = "ba1a0228e04fb27488f75c7090afb83d89d0bb7ade0638207c2459afd77ede7d"
 metafile = true
