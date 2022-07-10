@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/compressedcreativity.pw.toml"
-hash = "a0bf4e9c1850ed4bc207fcd2d46e31b62e0f86825343275f7d06bece99cbc288"
+hash = "e4138073060de1eb67f1325aa9516c3d1063f5012371ec41cc7e00df8e45562e"
 metafile = true
 
 [[files]]
@@ -272,27 +272,27 @@ metafile = true
 
 [[files]]
 file = "mods/create-alloyed.pw.toml"
-hash = "339706000fdc141e32210c1aa84022ccdfb910717798c2446bd35be2ac440ed0"
+hash = "7bfca28c75f0d6c07a1ba5f19a5dbf96dd1aa5b1d63b60bccc8f48ff89811e0d"
 metafile = true
 
 [[files]]
 file = "mods/create-deco.pw.toml"
-hash = "ae395e19ad52972037d6844895fe35a7f17d2358379696f2689e96bc0c6502a9"
+hash = "315c92e96c0258353b354b2b63c61539688cf643065ec61036f350af4e6b8589"
 metafile = true
 
 [[files]]
 file = "mods/create-stuff-additions.pw.toml"
-hash = "5a7b966d8276fce0b2f5ab29728451e3dc93d7e88e61a0bb3caa797bf28328d9"
+hash = "d582775ff539022bb3a928fc525aea57111dbfcb51b4b2788ed72deb4b109411"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "6260854df98bee184f801f31b6a23459b55381896684ff75ade4a6a09ea665f7"
+hash = "678df7998f941a280a54bb646072eedcaf1b91e1e4f73d1661e50238a7713216"
 metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "e116a4c60883db9826d629da917b93686bd72f62ca74033b4a905c1481c7191d"
+hash = "66211b367e7e6aed51783f7975270f21c4544e149c04c22b2e7295735af11dde"
 metafile = true
 
 [[files]]
@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/evilcraft.pw.toml"
-hash = "707aaf07fdf7c5baf1e85cdf766876ebbc2ac12ccb17b6e6f580cd074b75b413"
+hash = "1e7bb7cc0987bfca85739b5318402fe97fe6e6764a6bbf92b59b4918d3e8b8c4"
 metafile = true
 
 [[files]]
@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/flywheel.pw.toml"
-hash = "1ad39bf13de8391ebd87c7788f18c61a45d823ca03496cfa67092088b1919bc5"
+hash = "c9401dbeea3ef478851b2831e481da7049e9cee458fa7d2f367aec2efa88cb76"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/idas.pw.toml"
-hash = "4babef3f95ff027f0604cb20862e956695d98454b88af000b43550fac7a57c1e"
+hash = "7a6806137b8eca3bda72b3bc305c14485920ddd1249488fe5ce2de365d691642"
 metafile = true
 
 [[files]]
@@ -967,7 +967,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
-hash = "9743690593e5dabcd360212cce9fb68cd3dbb4d18dbce710e5f79cea631e8ea0"
+hash = "34010f86713d0c4373983651eda29236007cf291c567ad4619557bf5466b5279"
 metafile = true
 
 [[files]]
