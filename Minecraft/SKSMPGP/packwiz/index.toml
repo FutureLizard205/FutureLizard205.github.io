@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "3b188291f70174653470ae7722bd0edc019f538b2d7a100158e6d55fa51a14f9"
+hash = "89d29e338d3ee4bf85fccf0ef016959dea459fef1c71a3956e4143aecb5910e2"
 metafile = true
 
 [[files]]
@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-industrial-contraptions-forge.pw.toml"
-hash = "be7dfc34d85f4d28a2293d15f487775dba61b18478d9ccaf61af7e7c84d5ca4e"
+hash = "ee555cc62e02b567e3d1ba1bcdfda29a5721abb2e55780e5a39f80bed427d429"
 metafile = true
 
 [[files]]
@@ -537,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "a24dbc7f6f395deb4d55895517e50312d66c12795fbff3697fc89313de26d167"
+hash = "3e963187c3f080269bc97d3a419ab4b8395bc9fcb86e413f39658cae659b0990"
 metafile = true
 
 [[files]]
@@ -857,7 +857,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "ea55d78440fa1289587ff06497b92d9cfe988bb4164fcdddf42dd9dc83fd0779"
+hash = "a765e2532653e60cb187460774548380aeb726ecfd11108648bd21910e95a7fd"
 metafile = true
 
 [[files]]
